@@ -61,7 +61,7 @@ See also [Linking](#linkingVideo) a video URL to a mobile site or a website.
     the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the **Universal_HTML5_Video viewer**.
 
     * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview > Viewer List**. In the Viewer List page, under the Actions
-    column of the table, click **Embed Code**. As a best practice, click **Embed Code*8 that is associated with the **Universal_HTML5_Video viewer**.
+    column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the **Universal_HTML5_Video viewer**.
 
 4. In the Embed Code dialog box, click **Copy to Clipboard**. Editing the code is not permitted in the Embed Code dialog box.
 
