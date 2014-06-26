@@ -34,14 +34,14 @@ See also [Embedding](#embedVideo) the video viewer on a web page.
 
 4. Paste the HTML5 video URL link on your website and mobile site.
 
-## Embedding the video viewer on a web page
+## <a name="embedVideo">Embedding the video viewer on a web page</a>
 
 Use the Embed Code feature when you want to play the video embedded on the web page. You copy the embed code to the clipboard so you can paste it
 in your web pages. Editing of the code is not permitted in the Embed Code dialog box.
 
 See also [Linking](#linkingVideo) a video URL to a mobile site or a website.
 
-### <a name="embedVideo">To embed the video viewer on a web page</a>
+### To embed the video viewer on a web page
 
 1. In the Asset Browse panel, in the Show drop-down list, click Video or Adaptive Video Set.
 
