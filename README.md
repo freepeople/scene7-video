@@ -1,6 +1,6 @@
 # Scene7 Video
 
-## <a name="linkVideo">Linking a video URL to a mobile site or a website</a>
+## <a name="linkingVideo">Linking a video URL to a mobile site or a website</a>
 
 After you publish a video, you can obtain its URL for use in your website, mobile site, or desktop application. Use the video URL when you
 want to display video in a pop-up or modal window on top of the web page.
