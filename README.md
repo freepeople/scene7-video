@@ -12,25 +12,25 @@ See also [Embedding](#embedVideo) the video viewer on a web page.
 
 ### To link a video URL to a mobile site or a website
 
-1. In the Asset Browse panel, in the Show drop-down list, click Video or Adaptive Video Set.
+1. In the Asset Browse panel, in the Show drop-down list, click **Video** or **Adaptive Video Set**.
 
 2. In the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set you want to link.
 
 3. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click Grid View or List View. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In
-    the URLs and Embed Code panel on the right, under HTTP Streaming, click Copy URL to the right of the viewer you want. As a best practice, copy
-    the URL associated with the Universal_HTML5_Video viewer.
+    * Click **Grid View** or **List View**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In
+    the URLs and Embed Code panel on the right, under HTTP Streaming, click **Copy URL** to the right of the viewer you want. As a best practice, copy
+    the URL associated with the **Universal_HTML5_Video viewer**.
 
-    * Click Grid View. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click Preview > Viewer List. In the
-    Viewer List page, under the Actions column of the table, click Copy URL. As a best practice, copy the URL associated with the
-    Universal_HTML5_Video viewer.
+    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the thumbnail image, click **Preview > Viewer** List. In the
+    Viewer List page, under the Actions column of the table, click **Copy URL**. As a best practice, copy the URL associated with the
+    **Universal_HTML5_Video viewer**.
 
-    * Click List View. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click Preview > Viewer List. In
-    the Viewer List page, under the Actions column of the table, click Copy URL. As a best practice, copy the URL associated with the Universal_HTML5_Video viewer.
+    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview > Viewer** List. In
+    the Viewer List page, under the Actions column of the table, click **Copy URL**. As a best practice, copy the URL associated with the **Universal_HTML5_Video viewer**.
 
-    * Click Grid View, List View, or Detail View. On the same toolbar, click Preview > Viewer List. In the Viewer List page, under the Actions
-    column of the table, click Copy URL. As a best practice, copy the URL associated with the Universal_HTML5_Video viewer.
+    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview > Viewer List**. In the Viewer List page, under the Actions
+    column of the table, click **Copy URL**. As a best practice, copy the URL associated with the **Universal_HTML5_Video viewer**.
 
 4. Paste the HTML5 video URL link on your website and mobile site.
 
@@ -43,29 +43,29 @@ See also [Linking](#linkingVideo) a video URL to a mobile site or a website.
 
 ### To embed the video viewer on a web page
 
-1. In the Asset Browse panel, in the Show drop-down list, click Video or Adaptive Video Set.
+1. In the Asset Browse panel, in the Show drop-down list, click **Video** or **Adaptive Video Set**.
 
 2. In the Asset Library panel on the left side, navigate to the asset folder that contains the video or adaptive video set whose embed code you want to copy.
 
 3. Above the Asset Browse panel, on the right side of the toolbar, do one of the following:
 
-    * Click Grid View or List View. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the
-    URLs and Embed Code panel on the right, under HTTP Streaming, click Embed Code to the right of the viewer you want. As a best practice, click
-    Embed Code that is associated with the Universal_HTML5_Video viewer.
+    * Click **Grid View** or **List View**. In the Asset Browse panel, double-click the video thumbnail of a single asset to open it in Detail View. In the
+    URLs and **Embed Code** panel on the right, under HTTP Streaming, click **Embed Code** to the right of the viewer you want. As a best practice, click
+    Embed Code that is associated with the **Universal_HTML5_Video viewer**.
 
-    * Click Grid View. In the Asset Browse panel, select a single asset, and then below the video thumbnail image, click Preview > Viewer List. In
-    the Viewer List page, under the Actions column of the table, click Embed Code. As a best practice, click Embed Code that is associated with
+    * Click **Grid View**. In the Asset Browse panel, select a single asset, and then below the video thumbnail image, click **Preview > Viewer List**. In
+    the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with
     the Universal_HTML5_Video viewer.
 
-    * Click List View. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click Preview > Viewer List. In
-    the Viewer List page, under the Actions column of the table, click Embed Code. As a best practice, click Embed Code that is associated with the Universal_HTML5_Video viewer.
+    * Click **List View**. In the Asset Browse panel, select a single asset, and then to the right of the thumbnail image, click **Preview > Viewer List**. In
+    the Viewer List page, under the Actions column of the table, click **Embed Code**. As a best practice, click **Embed Code** that is associated with the **Universal_HTML5_Video viewer**.
 
-    * Click Grid View, List View, or Detail View. On the same toolbar, click Preview > Viewer List. In the Viewer List page, under the Actions
-    column of the table, click Embed Code. As a best practice, click Embed Code that is associated with the Universal_HTML5_Video viewer.
+    * Click **Grid View**, **List View**, or **Detail View**. On the same toolbar, click **Preview > Viewer List**. In the Viewer List page, under the Actions
+    column of the table, click **Embed Code**. As a best practice, click **Embed Code*8 that is associated with the **Universal_HTML5_Video viewer**.
 
-4. In the Embed Code dialog box, click Copy to Clipboard. Editing the code is not permitted in the Embed Code dialog box.
+4. In the Embed Code dialog box, click **Copy to Clipboard**. Editing the code is not permitted in the Embed Code dialog box.
 
-5. Click Close.
+5. Click **Close**.
 
 6. Paste the embed code in your web pages.
 
@@ -79,10 +79,9 @@ If you do not use the Scene7 HTML5 video player, but instead want to use the nat
         <p>This is fallback content</p>
     </video>
 ````
-* Replace "S7 video thumbnail URL" with the video's thumbnail URL. This is the video’s thumbnail image that a user sees before they play the video.
 
-* See Obtaining video thumbnail URLs.
+* Replace **"S7 video thumbnail URL"** with the video's thumbnail URL. You can obtain video thumbnail URLs in **Detail View** in the **URLs and Embed Code** panel. Click **Copy URL** to the right of the video thumbnail to copy its URL.
 
-* Replace "S7 OGG video asset URL (no player)" with the video’s progressive URL for OGG video. See [Linking](#linkingVideo) a video URL to a mobile site or a website.
+* Replace **"S7 OGG video asset URL (no player)"** with the video's progressive URL for OGG video. See [Linking](#linkingVideo) a video URL to a mobile site or a website.
 
-* Replace "S7 MP4 mobile progressive video asset URL (no player)" with the video’s mobile progressive URL. See [Linking](#linkingVideo) a video URL to a mobile site or a website.
+* Replace **"S7 MP4 mobile progressive video asset URL (no player)"** with the video's mobile progressive URL. See [Linking](#linkingVideo) a video URL to a mobile site or a website.
